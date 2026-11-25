@@ -7,9 +7,9 @@
 ---
 
 ### About Me
-I am a passionate AI & Machine Learning undergraduate with hands-on experience building end-to-end NLP models, computer vision applications, and full-stack web solutions. Alongside core software engineering, I hold multiple global enterprise certifications in ServiceNow, Salesforce, and SAP ABAP Cloud[cite: 1]. 
-I love solving algorithmic problems and building reliable software that makes an impact[cite: 1]. Currently building projects in Computer Vision.
+I am a passionate AI & Machine Learning undergraduate with a strong foundation in **Java** and **Software Development**, actively seeking entry-level **Java Developer** or **Software Engineer** roles. I bring hands-on experience architecting scalable **Java full-stack applications** (Spring Boot & React), alongside building end-to-end NLP models and Computer Vision systems. 
 
+Complementing my core engineering skills, I hold global enterprise certifications in **ServiceNow (CSA & CAD)**, **Salesforce**, and **SAP ABAP Cloud**. I thrive on solving complex algorithmic problems, writing clean, reliable code, and currently expanding my portfolio with advanced Computer Vision projects.
 ---
 
 ### 🛠️ Technical Skills
@@ -60,6 +60,13 @@ Check out my problem-solving journey across competitive programming platforms:
 * Email: kusumavangala804@gmail.com[cite: 1]
 
 ---
-
 ### 📊 GitHub Stats
-*(Replace with your GitHub stats cards if desired)*
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kusumavangala&show_icons=true&theme=tokyonight" alt="Kusuma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusumavangala&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=kusumavangala&theme=tokyonight" alt="GitHub Streak" />
+</p>
