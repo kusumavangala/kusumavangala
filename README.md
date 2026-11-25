@@ -7,9 +7,9 @@
 ---
 
 ### About Me
-I am a passionate AI & Machine Learning undergraduate with a strong foundation in **Java** and **Software Development**, actively seeking entry-level **Java Developer** or **Software Engineer** roles. I bring hands-on experience architecting scalable **Java full-stack applications** (Spring Boot & React), alongside building end-to-end NLP models and Computer Vision systems. 
+I am a passionate AI & Machine Learning undergraduate with a strong foundation in **Java** language , actively seeking entry-level **Java Developer** or **Software Engineer** roles. I bring hands-on experience architecting scalable **Java full-stack applications** (Spring Boot & React), alongside building end-to-end NLP models and Computer Vision systems. 
 
-Complementing my core engineering skills, I hold global enterprise certifications in **ServiceNow (CSA & CAD)**, **Salesforce**, and **SAP ABAP Cloud**. I thrive on solving complex algorithmic problems, writing clean, reliable code, and currently expanding my portfolio with advanced Computer Vision projects.
+
 ---
 
 ### 🛠️ Technical Skills
