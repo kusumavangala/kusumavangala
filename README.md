@@ -7,14 +7,15 @@
 ---
 
 ### About Me
-I am a passionate AI & Machine Learning undergraduate with hands-on experience building end-to-end NLP models, computer vision applications, and full-stack web solutions. Alongside core software engineering, I hold multiple global enterprise certifications in ServiceNow, Salesforce, and SAP ABAP Cloud[cite: 1]. I love solving algorithmic problems and building reliable software that makes an impact[cite: 1]. Currently building projects in Natural Language Processing (NLP), Computer Vision, and Java Full-Stack.
+I am a passionate AI & Machine Learning undergraduate with hands-on experience building end-to-end NLP models, computer vision applications, and full-stack web solutions. Alongside core software engineering, I hold multiple global enterprise certifications in ServiceNow, Salesforce, and SAP ABAP Cloud[cite: 1]. 
+I love solving algorithmic problems and building reliable software that makes an impact[cite: 1]. Currently building projects in Computer Vision.
 
 ---
 
 ### 🛠️ Technical Skills
 * **Programming Languages:** Java, Python, C
 * **Web & Frameworks:** Spring Boot, React.js, HTML, CSS, JavaScript
-* **Core Concepts:** Data Structures, Object-Oriented Programming, Machine Learning, NLP, NumPy, Pandas
+* **Core Concepts:** Data Structures, Object-Oriented Programming, Machine Learning, NLP
 * **Enterprise Platforms:** ServiceNow (CSA & CAD), Salesforce, SAP ABAP Cloud[cite: 1]
 
 ---
